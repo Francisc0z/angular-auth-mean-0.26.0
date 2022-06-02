@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkPokemonApp=self.webpackChunkPokemonApp||[]).push([[674],{1674:(a,e,o)=>{o.r(e),o.d(e,{PokedexModule:()=>E});var d=o(9808),P=o(2382),l=o(4287),u=o(1223);let E=(()=>{class n{}return n.\u0275fac=function(_){return new(_||n)},n.\u0275mod=u.oAB({type:n}),n.\u0275inj=u.cJS({imports:[[d.ez,l.a,P.u5]]}),n})()}}]);
